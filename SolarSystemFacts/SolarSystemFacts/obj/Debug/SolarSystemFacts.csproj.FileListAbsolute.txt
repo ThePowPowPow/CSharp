@@ -1,0 +1,9 @@
+c:\users\jamie\documents\visual studio 2013\Projects\SolarSystemFacts\SolarSystemFacts\bin\Debug\SolarSystemFacts.exe.config
+c:\users\jamie\documents\visual studio 2013\Projects\SolarSystemFacts\SolarSystemFacts\bin\Debug\SolarSystemFacts.exe
+c:\users\jamie\documents\visual studio 2013\Projects\SolarSystemFacts\SolarSystemFacts\bin\Debug\SolarSystemFacts.pdb
+c:\users\jamie\documents\visual studio 2013\Projects\SolarSystemFacts\SolarSystemFacts\obj\Debug\SolarSystemFacts.csprojResolveAssemblyReference.cache
+c:\users\jamie\documents\visual studio 2013\Projects\SolarSystemFacts\SolarSystemFacts\obj\Debug\SolarSystemFacts.Form1.resources
+c:\users\jamie\documents\visual studio 2013\Projects\SolarSystemFacts\SolarSystemFacts\obj\Debug\SolarSystemFacts.Properties.Resources.resources
+c:\users\jamie\documents\visual studio 2013\Projects\SolarSystemFacts\SolarSystemFacts\obj\Debug\SolarSystemFacts.csproj.GenerateResource.Cache
+c:\users\jamie\documents\visual studio 2013\Projects\SolarSystemFacts\SolarSystemFacts\obj\Debug\SolarSystemFacts.exe
+c:\users\jamie\documents\visual studio 2013\Projects\SolarSystemFacts\SolarSystemFacts\obj\Debug\SolarSystemFacts.pdb
